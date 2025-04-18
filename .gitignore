@@ -1,0 +1,60 @@
+# Firebase & API Keys
+
+/app/google-services.json
+google-services.json
+gradle.properties
+/gradle.properties
+local.properties
+/local.properties
+*.jks
+
+# Gradle related files
+.gradle/
+build/
+.gradle
+.idea
+**/build/
+gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Android Studio & IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+.cache/
+captures/
+*.swp
+
+# Logs and Miscellaneous
+*.log
+*.hprof
+.DS_Store
+Thumbs.db
+
+# Kotlin related files
+*.kotlin_module
+
+# Jetpack Compose
+.ui/
+
+# APKs & Compiled Output
+*.apk
+*.ap_
+*.dex
+*.class
+
+/app/build/
+/app/build.gradle.kts
+/app/build
+/gradle
+/gradle/wrapper
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/build.gradle.kts
+build.gradle.kts
+gradlew
+gradlew.bat
+settings.gradle.kts
+/app/proguard-rules.pro
