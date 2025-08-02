@@ -1,0 +1,46 @@
+# Firebase & API Keys
+
+/app/google-services.json
+
+*.jks
+
+# Gradle related files
+.gradle/
+build/
+.gradle
+.idea
+**/build/
+gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.jar
+gradle-wrapper.properties
+local.properties
+gradle.properties
+
+# Android Studio & IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+.cache/
+captures/
+*.swp
+
+# Logs and Miscellaneous
+*.log
+*.hprof
+.DS_Store
+Thumbs.db
+
+# Kotlin related files
+*.kotlin_module
+
+# APKs & Compiled Output
+*.apk
+*.ap_
+*.dex
+*.class
+
+
+
+
+
